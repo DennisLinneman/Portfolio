@@ -10972,3 +10972,10 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.card-text {
+  color: #343a40;
+}
+.card-body a {
+  color: #343a40;
+  text-decoration: underline;
+}
